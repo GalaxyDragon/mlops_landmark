@@ -1,4 +1,4 @@
-# mlops_landmark
+# landmark similarity detection
 ## Описание задачи
 
 ### Формальная задача:
