@@ -38,21 +38,21 @@
 
 Текущая структура проекта
 
-.
-├── Dockerfile 
-├── README.md
-├── dataset # датасет
-│   ├── train
-│   └── validation
-├── implementations # внутренняя логика и архитектура модели
-│   ├── __init__.py
-│   ├── config.py
-│   ├── landmark_dataset.py
-│   ├── landmark_model.py
-│   ├── landmark_train.py
-│   └── utils.py
-├── infer.py
-├── models # папка для хранения моделей. Версионирование in progress
-├── requirements.txt
-└── train.py
+.  
+├── Dockerfile  
+├── README.md  
+├── dataset # датасет  
+│   ├── train  
+│   └── validation  
+├── implementations # внутренняя логика и архитектура модели  
+│   ├── __init__.py  
+│   ├── config.py  
+│   ├── landmark_dataset.py  
+│   ├── landmark_model.py  
+│   ├── landmark_train.py  
+│   └── utils.py  
+├── infer.py  
+├── models # папка для хранения моделей. Версионирование in progress  
+├── requirements.txt  
+└── train.py  
 
